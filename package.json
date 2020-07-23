@@ -1,0 +1,17 @@
+{
+  "name": "web-socket-video-broadcast",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^2.3.0"
+  },
+  "description": "A simple App Engine implementation of WebRTC video broadcast web service",
+  "repository": "https://github.com/SoloSynth1/web-socket-video-broardcast",
+  "author": "SoloSynth1 <orixay@hotmail.com>"
+}
