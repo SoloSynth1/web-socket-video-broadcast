@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "http": "^0.0.1-security",
-    "socket.io": "^2.4.0"
+    "socket.io": "^2.5.0"
   },
   "description": "A simple App Engine implementation of WebRTC video broadcast web service",
   "repository": "https://github.com/SoloSynth1/web-socket-video-broardcast",
